@@ -1,7 +1,7 @@
 name: ERRV Team Mobo
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.19521
+typography_spectrum: 0.7515
 title: ERRV Team Mobo
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#8c9655'
     - '#b9b237'
   brandStrength: 0.75
-  lightness: 0.5625
+  lightness: 0.375
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
