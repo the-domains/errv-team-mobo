@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Website des Motorboot-Teams im Essener Ruder-Regattaverein e.V.]]></title>
-        <description><![CDATA[Website des Motorboot-Teams im Essener Ruder-Regattaverein e.V.]]></description>
+        <title><![CDATA[ERRV Team Mobo]]></title>
+        <description><![CDATA[ERRV Team Mobo]]></description>
         <link>https://thegrid.ai/errv-team-mobo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 13:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 13:39:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/errv-team-mobo/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Willkommen]]></title>
-            <description><![CDATA[<article><h1>Willkommen</h1><p>Hier entstehr eine neue Webseite für das Motorboot-Team des Essener Ruder-Regattavereins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f1ca222e8d124dee46de51f6067c55b94d57109.png"></article>]]></description>
-            <link>https://thegrid.ai/errv-team-mobo/willkommen/index.html</link>
-            <guid isPermaLink="false">c7c280d0-70ee-4bc6-a5d0-c49616334540</guid>
-            <pubDate>Mon, 04 Jan 2016 13:31:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Aufgaben]]></title>
             <description><![CDATA[<article><h1>Aufgaben</h1><p>Die Aufgaben des ERRV Team Mobo lassen sich in drei Bereiche Aufteilen:</p></article>]]></description>
