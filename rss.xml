@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Website des Motorboot-Teams im Essener Ruder-Regattaverein e.V.]]></title>
         <description><![CDATA[Website des Motorboot-Teams im Essener Ruder-Regattaverein e.V.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/errv-team-mobo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 13:19:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 13:25:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/errv-team-mobo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aufgaben]]></title>
+            <description><![CDATA[<article><h1>Aufgaben</h1><p>Welche Aufgaben hat das ERRV Team Mobo?</p></article>]]></description>
+            <link>https://thegrid.ai/errv-team-mobo/aufgaben/index.html</link>
+            <guid isPermaLink="false">af89ae1d-c7f5-41c6-9004-145beb0b5411</guid>
+            <pubDate>Mon, 04 Jan 2016 13:25:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Willkommen]]></title>
-            <description><![CDATA[<article><h1>Willkommen</h1><p>Hier entstehr eine neue Webseite für das Motorboot-Team des Essener Ruder-Regattavereins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c070d5650d3e6374628793df59b84260dc4da39.png"></article>]]></description>
-            <link>undefinedwillkommen/index.html</link>
+            <description><![CDATA[<article><h1>Willkommen</h1><p>Hier entstehr eine neue Webseite für das Motorboot-Team des Essener Ruder-Regattavereins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8845e7d00f400b51404ad1003c657cd92b9d5a51.png"></article>]]></description>
+            <link>https://thegrid.ai/errv-team-mobo/willkommen/index.html</link>
             <guid isPermaLink="false">c7c280d0-70ee-4bc6-a5d0-c49616334540</guid>
             <pubDate>Mon, 04 Jan 2016 13:18:35 GMT</pubDate>
         </item>
