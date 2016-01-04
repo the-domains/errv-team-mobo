@@ -1,7 +1,7 @@
 name: ERRV Team Mobo
 favicon: null
 layout_spectrum: 0.5153769257012755
-typography_spectrum: 0.4071311131119728
+typography_spectrum: 0.19521
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.442910838406533
+    - '#0f47af'
+    - '#fcdd09'
+    - '#607a75'
+    - '#8c9655'
+    - '#b9b237'
+  brandStrength: 0.5
   lightness: 0.254665972199291
   saturation: 0.41477321297861636
   rhythmicContrast: 0.06096073403023183
